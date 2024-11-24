@@ -1,0 +1,30 @@
+.Text-centre{
+    text-align: center;
+}
+
+.bg-black{
+    background-color: rgb(7, 7, 7);
+}
+
+.mx-w{
+    margin: auto;
+}
+
+.flex{
+    display:flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-centre{
+    align-items: center;
+}
+
+.or{
+    background-color: orange;
+    color: aliceblue;
+    border-color: aliceblue;
+    
+}
